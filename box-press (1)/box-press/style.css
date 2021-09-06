@@ -1,0 +1,50 @@
+
+
+
+
+
+section{
+	width: 1000px;
+	margin: auto;
+}
+#secwrapper{
+	/*background: url('images/bg.gif') fixed;
+	background-color: #f47771;*/ 
+	padding-top: 20px; 
+}
+#onePost{
+	width: 1000px;
+	margin-right: 40px;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid #c8c8c8;
+	margin-bottom: 20px;
+	padding: 7px;
+	border-radius: 3px;
+	box-shadow: 0 2px 3px #ccc;
+	background-color: white;
+	*display:inline;
+    zoom:1;
+}
+article{
+	width: 280px;
+	margin-right: 40px;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid #c8c8c8;
+	margin-bottom: 20px;
+	padding: 7px;
+	border-radius: 3px;
+	box-shadow: 0 2px 3px #ccc;
+	background-color: white;
+	*display:inline;
+    zoom:1;
+}
+
+article p{
+	margin-bottom: 7px;
+	
+}
+.topic{
+	font-size: 30px;
+}

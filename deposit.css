@@ -1,0 +1,53 @@
+body {
+  padding: 20px;
+  background: #eceff1;
+  position: relative;
+  text-align: center;
+}
+
+.mdl-card{
+  margin:0 auto;
+}
+
+.slider-label{
+  color:#9E9E9E;
+}
+
+.tool-label{
+  color:#00BCD4;
+  font-size: 24px;
+}
+
+.installment-label{
+  color:#FFFFFF;
+  text-align:center;
+}
+
+.installment-value{
+  color:#FFFFFF;
+  text-align:center;
+  font-size:28px;
+}
+
+.slider-value{
+  font-weight:bold;
+}
+
+.installment-value{
+  text-align:center;
+  font-weight:bold;
+}
+
+.cyan {
+    color:#FFFFFF;
+    background-color: #1f344b;
+}
+.signup-btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background:#1f344b;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
